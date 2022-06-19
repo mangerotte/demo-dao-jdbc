@@ -1,4 +1,4 @@
-package mode.application;
+package model.application;
 
 import model.entities.Department;
 import model.entities.Seller;
